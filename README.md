@@ -148,7 +148,5 @@ This project is open source and available for educational purposes.
 - GitHub: [@vishalm342](https://github.com/vishalm342)
 
 ---
-
 ⭐ If you found this project helpful, please give it a star! 
 ```
-
